@@ -4,4 +4,4 @@
 
 **Ссылка на страницу**
 
-- [Hosting](https://aleksey-dev-crt.github.io/LandingPage-Hosting/index.html)
+- [Hosting](https://aleksey-dev-crt.github.io/LandingPage-hosting/index.html)
