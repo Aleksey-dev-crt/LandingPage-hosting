@@ -11,5 +11,3 @@ _Данный проект представляет собой веб стран
 **Ссылка на страницу**
 
 - [Hosting](https://aleksey-dev-crt.github.io/LandingPage-hosting/index.html)
-
-*статус проекта: завершен*
